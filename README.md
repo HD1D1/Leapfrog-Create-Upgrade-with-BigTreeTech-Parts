@@ -14,12 +14,19 @@ https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver/blob/master/TMC5
 
 # ///Components used///
 1x BigTreeTech Octopus Pro Motherboard
+
 1x BigTreeTech TFT50 Display
+
 5x XH2.54 4Pin to 6Pin Stepper Motor cables
+
 1x XH2.54 2pin Fan cable
+
 3x TMC 2209 Stepper Motor Drivers
+
 2x TMC 5160 Stepper Motor Drivers
+
 3x 2 pin 2.54 End stop cable
+
 8GA wire
 
 # ///Firmware///
