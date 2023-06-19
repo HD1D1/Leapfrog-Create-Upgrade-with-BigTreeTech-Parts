@@ -3,9 +3,13 @@ This is a tutorial on upgrading the Leapfrog Create 3D printer with Big tree tec
 
 # ///Useful links///
 https://github.com/MarlinFirmware/Marlin - Firmware
+
 https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro - Motherboard 
+
 https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware - Display 
+
 https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver/blob/master/TMC2209/V1.2/manual/TMC2209-V1.2-manual.pdf - TMC2209 manual
+
 https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver/blob/master/TMC5160/manual/BIGTREETECH%20TMC5160-V1.0%20manual.pdf - TMC 5160 manual
 
 # ///Components used///
